@@ -1,0 +1,85 @@
+---
+title: 'Project 2: Course'
+author: "S Santos"
+date: "Sunday, October 05, 2014"
+output: html_document
+---
+
+# Modelling Noise for an interacting cantilever 
+
+## Abstract
+
+This project has to do with noise and the modelling of noise for a 
+microcantilever constrained surfaces forces, i.e. a microcantilever that interacts with a surface through the tip-sample junction as in atomic
+force microscopy. 
+
+## Objective
+
+The objective is to find an expression, as a function of observables, i.e free amplitude and phase, free spring constant, Q factor, etc., that 
+determines the error in amplitude and phase of a vibrating cantilever
+for a general force, i.e. model indepedent. 
+
+##  Work to be carried out:
+
+* You will produce
+
+1. A document as in Project1 [here](https://github.com/AdvancedForcesGroup/Projects1/blob/master/Project%201.docx) 
+
+**and** 
+
+However this project is compulsory for everybody in the class and counts 
+5% of the final grade. 
+
+2. You will gve a talk. 
+
+##  To be delivered:
+
+This work will be delivered towards the midle or end of November. 
+
+
+## Technical details:
+
+**You can find technical details below**
+
+* Basic explanation of project [here](https://github.com/AdvancedForcesGroup/Projects4/blob/master/Project%204.pdf)
+
+* Details on cantilever modeleling via Virial and Energy expressions:
+
+-  **Virial**
+
+[here](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.193411)
+
+Paulo, A. S. & Garcia, R. Tip-surface, amplitude, and energy dissipation in amplitude-modulation (tapping mode) force microscopy. Physical Review B 64, 193411-193414 (2001).
+
+
+- **Energy tranfer**
+
+[here](http://www.physics.uoguelph.ca/psi/papers/AFM/Cleveland_ApplPhysLett98.pdf)
+
+
+
+Cleveland, J. P., Anczykowski, B., Schmid, A. E. & Elings, V. B. Energy dissipation in tapping-mode atomic force microscopy. Applied Physics Letters 72, 2613-2615 (1998)
+
+- **Energy and Virial**
+
+[here](http://scitation.aip.org/content/aip/journal/apl/104/14/10.1063/1.4870998)
+
+Santos, S. Phase contrast and operation regimes in multifrequency atomic force microscopy. Applied Physics Letters 104, 143109 (2014)
+
+## Some information on modeling noise
+
+* Fundamental work [here](http://iopscience.iop.org/0957-4484/6/1/001)
+
+
+Butt, H.-J. & Jaschke, M. Calculation of thermal noise in atomic I force microscopy. Nanotechnology 6, 1-7 (1995).
+
+* More advanced models
+
+- One about modelling for several modes [here](http://arxiv.org/abs/1407.4319)
+
+
+Forchheimer, D., Borysov, S. S., Platz, D. & Haviland, D. B. Determining surface properties with bimodal and multimodal AFM. http://arxiv.org/abs/1407.4319 (2014).
+
+- And another by Santos et al. [here]()
+
+Santos, S., Barcons, V., Font, J. & Verdaguer, A. Unlocking higher harmonics in atomic force microscopy with gentle interactions. Beilstein Journal of Nanotechnology 5, 268-277 (2014).
